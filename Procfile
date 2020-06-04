@@ -1,1 +1,1 @@
-web: java -Dserver.port=33500 -jar target/coronavirus-tracker-0.0.1.jar
+web: java -jar target/coronavirus-tracker-0.0.1.jar
