@@ -1,5 +1,5 @@
 {
-  "name": "Coronavirus Applications",
+  "name": "Coronavirus Application",
   "description": "Simple Spring Boot App with Thymeleaf",
   "repository": "https://github.com/Paracells/coronavirus-spring",
   "keywords": ["java", "spring", "thymeleafgit "]
